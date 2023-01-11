@@ -29,3 +29,4 @@ VCC	                3.3V
 #### 组装
 ![image](https://github.com/jayxtt999/st7735_DS18B20_D1Mini/blob/master/img/6e7b77afb6b9433e6f99f3214f813a0.jpg)
 
+ -- TODO ST7735S_0.96_inch_D.STL 盖板设计使用了一个4*4的按钮，用于简单控制屏幕切换和展示
